@@ -256,7 +256,6 @@ footer .detail {
 
 /*responsivo celulares -media query*/
 @media(max-width: 450px){
-  width: 100%;
 
   /*geral*/
   p, input, textarea #navbar-list li a{
