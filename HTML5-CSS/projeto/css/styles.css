@@ -57,7 +57,7 @@ h2 {
 /* banner */
 #main-banner {
   height: 70vh;
-  background-image: url('../img/bg-projeto.jpg');
+  background-image: url('../img/bgprogramacao.jpg');
   background-size: cover;
   padding-top: 15vh;
 }
@@ -80,7 +80,7 @@ h2 {
 }
 
 #banner-info p {
-  background-color: black;
+  color: white;
   font-weight: bold;
   width: 200px;
   margin-right: auto;
