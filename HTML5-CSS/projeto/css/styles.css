@@ -258,7 +258,7 @@ footer .detail {
 @media(max-width: 450px){
 
   /*geral*/
-  p, input, textarea #navbar-list li a{
+  p, input, textarea, #navbar-list li a{
     font-size: 1.2rem;
   }
 
